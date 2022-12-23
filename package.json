@@ -1,10 +1,10 @@
 {
-  "name": "ncis",
+  "name": "@hopocode/ncis",
   "version": "1.0.0",
-  "description": "Root of anything",
+  "description": "Node custom intarnal servic.",
   "main": "build/index.js",
   "scripts": {
-    "hello": "I need src root."
+    "hello": "hello custum intarnal servic."
   },
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
   "keywords": [
     "srcroot"
   ],
-  "author": "Honza Pospisil <https://www.honzapospisil.com>",
+  "author": "Honza Pospisil <me@honzapospisil.com> (https://www.honzapospisil.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hopocode/ncis/issues"
