@@ -1,0 +1,22 @@
+{
+  "name": "ncis",
+  "version": "1.0.0",
+  "description": "Root of anything",
+  "main": "build/index.js",
+  "scripts": {
+    "hello": "I need src root."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hopocode/ncis.git"
+  },
+  "keywords": [
+    "srcroot"
+  ],
+  "author": "Honza Pospisil <https://www.honzapospisil.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hopocode/ncis/issues"
+  },
+  "homepage": "https://github.com/hopocode/ncis#readme"
+}
